@@ -36,10 +36,7 @@ defaults:
   values:
     image: true
 
-pages:
-  - "about"
-  - "404"
-  - "index"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
