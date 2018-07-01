@@ -25,7 +25,7 @@ github_username:  merlin-neurotech
 
 # Build settings
 markdown: kramdown
-theme: materialize
+theme: minima
 plugins:
   - jekyll-feed
   
