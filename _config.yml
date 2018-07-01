@@ -25,10 +25,10 @@ github_username:  merlin-neurotech
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: materialize
 plugins:
   - jekyll-feed
-
+  
 # I added:
 #defaults: 
 #  scope:
