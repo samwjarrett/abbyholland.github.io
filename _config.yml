@@ -18,10 +18,10 @@ email: mnc@clubs.queensu.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Merlin Neurotech is a club dedicated to the development of Brain-Computer 
   Interfaces (BCI) and a Neurotech community at Queen's University.
-baseurl: "/index.html" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abbyholland.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username:  merlin-neurotech
 
 # Build settings
 markdown: kramdown
