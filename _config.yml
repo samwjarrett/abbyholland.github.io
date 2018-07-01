@@ -29,11 +29,11 @@ theme: minima
 plugins:
   - jekyll-feed
 # I added:
-defaults: 
-  - scope:
-    - path: "assets/img"
-  values:
-    image: true
+#defaults: 
+#  scope:
+#    path: "assets/img"
+#  values:
+#    image: true
 
 
 
